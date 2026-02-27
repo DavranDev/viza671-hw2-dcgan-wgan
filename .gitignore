@@ -1,0 +1,19 @@
+# Model weights and checkpoints
+results/dcgan_checkpoints/
+results/wgan_checkpoints/
+results/models/
+
+# Dataset cache
+results/hf_cache/
+
+# Binary data files
+results/loss_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# System
+.DS_Store
